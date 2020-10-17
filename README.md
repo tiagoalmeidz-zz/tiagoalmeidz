@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ Pós Graduado em Engenharia de Software, Desenvolvedor Full-Stack em projetos Web utilizando ReactJS (Redux/Saga), NodeJS entre outras tecnologias.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)
+
 <!--
 **tiagoalmeida93/tiagoalmeida93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
