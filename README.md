@@ -2,9 +2,17 @@
 
 Pós Graduado em Engenharia de Software, Desenvolvedor Full-Stack em projetos Web utilizando ReactJS (Redux/Saga), NodeJS entre outras tecnologias.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)
+<a href="https://www.linkedin.com/in/tiago-almeida-fullstack-developer">
+<img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin%/%Tiago%20Almeida-blue"/>
+</a>
+
+<a href="mailto:tiago.fernando.almeida@gmail.com">
+<img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a>
 
 <!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)
+
 **tiagoalmeida93/tiagoalmeida93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
