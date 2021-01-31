@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 Software engineer, Full-Stack Developer in Web projects using ReactJS (Redux/Saga), NodeJS among other technologies.
 
