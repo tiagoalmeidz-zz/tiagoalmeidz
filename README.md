@@ -3,7 +3,7 @@
 Pós Graduado em Engenharia de Software, Desenvolvedor Full-Stack em projetos Web utilizando ReactJS (Redux/Saga), NodeJS entre outras tecnologias.
 
 <a href="https://www.linkedin.com/in/tiago-almeida-fullstack-developer">
-<img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin%/%Tiago%20Almeida-blue"/>
+<img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin%20/%20Tiago%20Almeida-blue"/>
 </a>
 
 <a href="mailto:tiago.fernando.almeida@gmail.com">
