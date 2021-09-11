@@ -8,13 +8,13 @@
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-Node-333333?style=flat&logo=typescript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=DB6247)
   ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
 - :cyclone: &nbsp;
