@@ -1,13 +1,8 @@
-<h4>Hi, I'm Tiago Almeida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h4>
+<h4>Hi, I'm Tiago Almeida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h4>
 
 <h5> 👨🏻‍💻 &nbsp;About Me </h5>
 
 - 🎓 &nbsp; I have a post-graduate degree in software engineering, with more than 9 years of experience, working as a full stack and in the last few years specializing in front-end.
-
-<h5> :mailbox_closed: &nbsp;Contact</h5>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Almeida-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer)
-[![Mail Badge](https://img.shields.io/badge/-tiago.fernando.almeida@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tiago.fernando.almeida@gmail.com)
 
 <h5> 🛠 &nbsp;Tech Stack</h5>
 
@@ -38,6 +33,12 @@
   ![Bash](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=powershell)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+<h5> :mailbox_closed: &nbsp;Contact</h5>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Almeida-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer)
+[![Mail Badge](https://img.shields.io/badge/-tiago.fernando.almeida@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tiago.fernando.almeida@gmail.com)
+
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer/)
