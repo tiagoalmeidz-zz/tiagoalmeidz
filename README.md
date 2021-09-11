@@ -1,9 +1,13 @@
-### Hi there! 👋
+<h2>Hi, I'm Tiago Almeida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> 👋
 
-Software engineer, Full-Stack Developer in Web projects using ReactJS (Redux/Saga), NodeJS among other technologies.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🎓 &nbsp; I have a post-graduate degree in software engineering, with more than 9 years of experience, working as a full stack and in the last few years specializing in front-end.
+
+<h3> :mailbox_closed: &nbsp;Contact</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Almeida-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-fullstack-developer)](https://www.linkedin.com/in/tiago-almeida-fullstack-developer)
-
+[![Mail Badge](https://img.shields.io/badge/-tiago.fernando.almeida@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tiago.fernando.almeida@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,8 +23,8 @@ Software engineer, Full-Stack Developer in Web projects using ReactJS (Redux/Sag
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=DB6247)
   ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
 - :cyclone: &nbsp;
-  ![DatoCMS](https://img.shields.io/badge/-DatoCMS-333333?style=flat&logo=datocms)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
+  ![DatoCMS](https://img.shields.io/badge/-DatoCMS-333333?style=flat&logo=datocms)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
