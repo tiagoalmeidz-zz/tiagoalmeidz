@@ -1,4 +1,4 @@
-<h4>Hi, I'm Tiago Almeida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h4>
+<h4>Hi, I'm Tiago Almeida! <img style="top:-15px;" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h4>
 
 <h5> 👨🏻‍💻 &nbsp;About Me </h5>
 
