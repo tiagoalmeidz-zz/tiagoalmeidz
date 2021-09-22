@@ -17,9 +17,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=DB6247)
   ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
-- :cyclone: &nbsp;
-  ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
-  ![DatoCMS](https://img.shields.io/badge/-DatoCMS-333333?style=flat&logo=datocms)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -34,6 +31,9 @@
 - :cloud:	&nbsp;
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=blue)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+- :cyclone: &nbsp;
+  ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
+  ![DatoCMS](https://img.shields.io/badge/-DatoCMS-333333?style=flat&logo=datocms)
 - :speaking_head: &nbsp;
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 🔧 &nbsp;
