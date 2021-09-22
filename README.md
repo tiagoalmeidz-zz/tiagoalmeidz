@@ -28,12 +28,12 @@
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![Bash](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=powershell)
-- :cloud:	&nbsp;
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=blue)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
 - :cyclone: &nbsp;
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![DatoCMS](https://img.shields.io/badge/-DatoCMS-333333?style=flat&logo=datocms)
+- :cloud:	&nbsp;
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=blue)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
 - :speaking_head: &nbsp;
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 🔧 &nbsp;
